@@ -1,4 +1,4 @@
-<p style="font-size:32px;text-align:center"> <b>Social network Graph Link Prediction - Facebook Challenge</b> </p>
+<h1> <p style="font-size:32px;text-align:center"> <b>Social network Graph Link Prediction - Facebook Challenge</b> </p> </h1>
 
 ### 1. Problem statement: 
 Given a directed social graph, have to predict missing links to recommend users (Link Prediction in graph)
