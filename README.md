@@ -38,7 +38,11 @@ You need to have installed following softwares and libraries before running this
 * __scikit-learn:__ scikit-learn is a Python module for machine learning built on top of SciPy.
     * pip install scikit-learn
     * conda install -c anaconda scikit-learn
-
+    
+* __networkx:__ NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+    * pip install networkx
+    * conda install -c anaconda networkx
+    
 * __nltk:__ The Natural Language Toolkit (NLTK) is a Python package for natural language processing. 
     * pip install nltk
     * conda install -c anaconda nltk
