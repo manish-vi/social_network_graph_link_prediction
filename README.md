@@ -47,6 +47,5 @@ You need to have installed following softwares and libraries before running this
     * pip install nltk
     * conda install -c anaconda nltk
     
-
 ## 9. Authors
 •	Manish Vishwakarma - Complete work  
